@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "date-fns": "^2.21.3",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.7"
   },
   "devDependencies": {
     "@types/express": "^4.17.11",
